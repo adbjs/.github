@@ -1,9 +1,7 @@
-<div align="center">
-  <h2>Security Policy</h2>
-  <p>Where to report security vulnerabilities</p>
-</div>
+# Security Policy
+Where to report security vulnerabilities
 
-### Reporting A Vulnerability
+## Reporting A Vulnerability
 
 If you have any reason to believe that there are security vulnerabilities across
 any repository in the organisation, please report to
