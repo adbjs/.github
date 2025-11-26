@@ -13,5 +13,5 @@ A powerful JavaScript & TypeScript framework for faster, easier bot creation. De
 Our current project can be viewed [here][project].
 
 [discord-server]: https://discord.gg/ZmKUnugG6s
-[open-collective]: https://opencollective.com/discordjs
+[open-collective]: https://opencollective.com/adbjs
 [project]: https://github.com/adbjs/adb.js
