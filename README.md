@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/adbjs/adb.js/refs/heads/main/assets/favicon.svg" width="100" alt="Logo"/>
+<img src="https://raw.githubusercontent.com/adbjs/adb.js/refs/heads/main/assets/favicon.svg" width="96" alt="Logo"/>
 
 ### ADB.js for [GitHub Community Health Files][github-community-health-files]
 
